@@ -15,7 +15,9 @@ function Johmo() {
                 <div className="johmo-content-right">
                     <div className="music-container">
                         <Song />
-
+                        <Song />
+                        <Song />
+                        <Song />
                     </div>
                     <div className="socials-container">
 

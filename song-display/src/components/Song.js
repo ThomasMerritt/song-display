@@ -1,9 +1,10 @@
 import React from "react";
+import "../styles/Song.css";
 
 function Song() {
     return (
-        <div>
-            <h1>SONG</h1>
+        <div className="song-container">
+            
         </div>
     )
 }
